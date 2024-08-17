@@ -57,16 +57,16 @@ The shell is an incredibly cool project. GL HF!
 
 Julien
 
-Resources
-Read or watch:
+# Resources
 
-Unix shell
-Thompson shell
-Ken Thompson
-Everything you need to know to start coding your own shell concept page
-man or help:
+**Read or watch:**
+- [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+- [Thompson shell]()
+- [Ken Thompson]()
+- **Everything you need to know to start coding your own shell** concept page
 
-sh (Run sh as well)
+**man or help:**
+- sh` (*Run `sh` as well*)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
