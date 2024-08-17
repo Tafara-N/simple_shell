@@ -11,7 +11,7 @@ Write a simple UNIX command interpreter.
 
 
 
-*^ “The Gates of Shell”, by [Spencer Cheng](https://x.com/spencerhcheng/status/855104635069054977), featuring [Julien Barbier]()*
+*^ “The Gates of Shell”, by [Spencer Cheng](https://x.com/spencerhcheng/status/855104635069054977), featuring [Julien Barbier](https://x.com/julienbarbier42)*
 
 ### Important message from Julien
 
