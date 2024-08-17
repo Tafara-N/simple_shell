@@ -61,7 +61,7 @@ Julien
 
 **Read or watch:**
 - [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
-- [Thompson shell]()
+- [Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
 - [Ken Thompson]()
 - **Everything you need to know to start coding your own shell** concept page
 
