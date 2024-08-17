@@ -6,10 +6,12 @@ All about Team Projects + Pairings + FAQ (A must read)
 Struggling with the sandbox? Try this: Using Docker & WSL on your local host
 Everything you need to know to start coding your own shell
 Approaching a Project
-Background Context
+
+## Background Context
+
 Write a simple UNIX command interpreter.
 
-
+![The Gates Of Shell](shell.jpg)
 
 *^ “The Gates of Shell”, by [Spencer Cheng](https://x.com/spencerhcheng/status/855104635069054977), featuring [Julien Barbier](https://x.com/julienbarbier42)*
 
