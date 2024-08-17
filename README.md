@@ -242,17 +242,16 @@ Repo:
 
 GitHub repository: simple_shell
 
-2. Simple shell 0.2
-mandatory
-Score: 33.33% (Checks completed: 33.33%)
+### 2. Simple shell 0.2
+
 Simple shell 0.1 +
 
-Handle command lines with arguments
-Repo:
+- Handle command lines with arguments
 
+Repo:
 GitHub repository: simple_shell
 
-3. Simple shell 0.3
+### 3. Simple shell 0.3
 mandatory
 Score: 8.83% (Checks completed: 10.0%)
 Simple shell 0.2 +
@@ -275,8 +274,9 @@ drwx------ 3 root   root   4096 Dec  5 12:07 systemd-private-062a0eca7f2a4434973
 -rw-rw-r-- 1 julien julien    0 Dec  5 12:09 unity_support_test.0
 :) ^C
 julien@ubuntu:~/shell$
-Repo:
+```
 
+Repo:
 GitHub repository: simple_shell
 
 ### 4. Simple shell 0.4
