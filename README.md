@@ -157,21 +157,31 @@ waitpid (man 2 waitpid)
 wait3 (man 2 wait3)
 wait4 (man 2 wait4)
 write (man 2 write)
-Compilation
-Your shell will be compiled this way:
 
+## Compilation
+
+**Your shell will be compiled this way:**
+
+```bash
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
-Testing
-Your shell should work like this in interactive mode:
+```
 
+### Testing
+
+**Your shell should work like this in interactive mode:**
+
+```bash
 $ ./hsh
 ($) /bin/ls
 hsh main.c shell.c
 ($)
 ($) exit
 $
-But also in non-interactive mode:
+```
 
+**But also in non-interactive mode:**
+
+```bash
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
 $
