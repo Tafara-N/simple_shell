@@ -252,12 +252,13 @@ Repo:
 GitHub repository: simple_shell
 
 ### 3. Simple shell 0.3
-mandatory
-Score: 8.83% (Checks completed: 10.0%)
+
 Simple shell 0.2 +
 
-Handle the PATH
-fork must not be called if the command doesn’t exist
+- Handle the `PATH`
+- `fork` must not be called if the command doesn’t exist
+
+```bash
 julien@ubuntu:~/shell$ ./shell_0.3
 :) /bin/ls
 barbie_j       env-main.c  exec.c  fork.c  pid.c  ppid.c    prompt   prompt.c  shell_0.3  stat    test_scripting.sh  wait.c
