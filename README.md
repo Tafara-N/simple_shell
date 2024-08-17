@@ -66,7 +66,7 @@ Julien
 - **Everything you need to know to start coding your own shell** concept page
 
 **man or help:**
-- sh` (*Run `sh` as well*)
+- `sh` (*Run `sh` as well*)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
