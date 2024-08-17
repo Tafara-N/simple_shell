@@ -500,19 +500,21 @@ Repo:
 
 GitHub repository: simple_shell
 
-15. Comments
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
+### 15. Comments
+
 Simple shell 1.0 +
 
-Handle comments (#)
+- Handle comments (`#`)
+
+```bash
 julien@ubuntu:~/shell$ sh
 $ echo $$ # ls -la
 5114
 $ exit
 julien@ubuntu:~/shell$
-Repo:
+```
 
+Repo:
 GitHub repository: simple_shell
 
 ### 16. File as input
