@@ -279,16 +279,15 @@ Repo:
 
 GitHub repository: simple_shell
 
-4. Simple shell 0.4
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+### 4. Simple shell 0.4
+
 Simple shell 0.3 +
 
-Implement the exit built-in, that exits the shell
-Usage: exit
-You don’t have to handle any argument to the built-in exit
-Repo:
+- Implement the `exit` built-in, that exits the shell
+- Usage: `exit`
+- You don’t have to handle any argument to the built-in `exit`
 
+Repo:
 GitHub repository: simple_shell
 
 ### 5. Simple shell 1.0
