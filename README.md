@@ -421,12 +421,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-12. && and ||
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
+### 12. && and ||
+
 Simple shell 1.0 +
 
-Handle the && and || shell logical operators
+- Handle the `&&` and `||` shell logical operators
+
+```bash
 alex@~$ ls /var && ls /var
 backups  cache  crash  lib  local  lock  log  mail  metrics  opt  run  spool  tmp
 backups  cache  crash  lib  local  lock  log  mail  metrics  opt  run  spool  tmp
@@ -459,8 +460,9 @@ ls: cannot access /hbtn: No such file or directory
 ls: cannot access /hbtn: No such file or directory
 backups  cache  crash  lib  local  lock  log  mail  metrics  opt  run  spool  tmp
 alex@~$
-Repo:
+```
 
+Repo:
 GitHub repository: simple_shell
 
 ### 13. alias
