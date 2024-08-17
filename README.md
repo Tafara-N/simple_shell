@@ -359,23 +359,22 @@ Repo:
 
 GitHub repository: simple_shell
 
-9. setenv, unsetenv
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
+### 9. setenv, unsetenv
+
 Simple shell 1.0 +
 
-Implement the setenv and unsetenv builtin commands
+Implement the `setenv` and `unsetenv` builtin commands
 
-setenv
-Initialize a new environment variable, or modify an existing one
-Command syntax: setenv VARIABLE VALUE
-Should print something on stderr on failure
-unsetenv
-Remove an environment variable
-Command syntax: unsetenv VARIABLE
-Should print something on stderr on failure
+- `setenv`
+    - Initialize a new environment variable, or modify an existing one
+    - Command syntax: `setenv VARIABLE VALUE`
+    - Should print something on stderr on failure
+- `unsetenv`
+    - Remove an environment variable
+    - Command syntax: `unsetenv VARIABLE`
+    - Should print something on stderr on failure
+
 Repo:
-
 GitHub repository: simple_shell
 
 ### 10. cd
