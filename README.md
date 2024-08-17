@@ -291,12 +291,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-5. Simple shell 1.0
-mandatory
-Score: 21.67% (Checks completed: 33.33%)
+### 5. Simple shell 1.0
+
 Simple shell 0.4 +
 
-Implement the env built-in, that prints the current environment
+- Implement the `env` **built-in**, that prints the current environment
+
+```bash
 julien@ubuntu:~/shell$ ./simple_shell
 $ env
 USER=julien
