@@ -43,8 +43,8 @@ Last thing about the framework. Note that the first thing to do is “0. Read”
 
 The shell project is a group project. That means you will be paired with someone. You already did this with printf, so please apply everything you have learned from the printf experience here. A quick reminder, that a group project is NOT:
 
-I do nothing and cross fingers for my partner to do everything so I can have a good score
-I do everything because I am so much better than my partner and I don’t care about them
+- I do nothing and cross fingers for my partner to do everything so I can have a good score
+- I do everything because I am so much better than my partner and I don’t care about them
 A group project at ALX SE is a project that both of you are responsible for. Everything anyone pushes to Github is the responsibility of both partners. It is not ok to say later “I didn’t cheat it’s my partner I didn’t know they didn’t tell me”.
 
 So you are supposed to work TOGETHER. And you should both understand every single line of code that any of you pushes. Here is a link for you to read about pair programming: [https://intranet.alxswe.com/concepts/121](https://intranet.alxswe.com/concepts/121)
