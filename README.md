@@ -333,12 +333,12 @@ Repo:
 
 GitHub repository: simple_shell
 
-7. Simple shell 0.2.1
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
+### 7. Simple shell 0.2.1
+
 Simple shell 0.2 +
 
-You are not allowed to use strtok
+- You are not allowed to use `strtok`
+
 Repo:
 GitHub repository: simple_shell
 
