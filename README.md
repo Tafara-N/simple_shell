@@ -210,15 +210,18 @@ The command lines are made only of one word. No arguments will be passed to prog
 If an executable cannot be found, print an error message and display the prompt again.
 Handle errors.
 You have to handle the “end of file” condition (Ctrl+D)
+
 You don’t have to:
 
-use the PATH
-implement built-ins
-handle special characters : ", ', `, \, *, &, #
-be able to move the cursor
-handle commands with arguments
-execve will be the core part of your Shell, don’t forget to pass the environ to it…
+- use the `PATH`
+- implement built-ins
+- handle special characters : `"`, `'`, `, `\`, `*`, `&`, `#`
+- be able to move the cursor
+- handle commands with arguments
 
+*`execve` will be the core part of your Shell, don’t forget to pass the environ to it…*
+
+```bash
 julien@ubuntu:~/shell$ ./shell
 #cisfun$ ls
 ./shell: No such file or directory
@@ -238,8 +241,9 @@ julien@ubuntu:~/shell$ echo "/bin/ls" | ./shell
 barbie_j       env-main.c  exec.c  fork.c  pid.c  ppid.c    prompt   prompt.c  shell.c  stat.c         wait
 env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat test_scripting.sh  wait.c
 #cisfun$ julien@ubuntu:~/shell$
-Repo:
+```
 
+Repo:
 GitHub repository: simple_shell
 
 ### 2. Simple shell 0.2
