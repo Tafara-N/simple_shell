@@ -477,14 +477,15 @@ Repo:
 
 GitHub repository: simple_shell
 
-14. Variables
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
+### 14. Variables
+
 Simple shell 1.0 +
 
-Handle variables replacement
-Handle the $? variable
-Handle the $$ variable
+- Handle variables replacement
+- Handle the `$?` variable
+- Handle the `$$` variable
+
+```bash
 julien@ubuntu:~/shell$ ./hsh
 $ ls /var
 backups  cache  crash  lib  local  lock  log  mail  metrics  opt  run  snap  spool  tmp
@@ -496,8 +497,9 @@ $ echo $PATH
 /home/julien/bin:/home/julien/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 $ exit
 julien@ubuntu:~/shell$
-Repo:
+```
 
+Repo:
 GitHub repository: simple_shell
 
 ### 15. Comments
