@@ -215,8 +215,8 @@ We **strongly** encourage the entire class to work together to create a suite of
 
 Write a beautiful code that passes the Betty checks
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 1. Simple shell 0.1
 
@@ -266,8 +266,8 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 #cisfun$ julien@ubuntu:~/shell$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 2. Simple shell 0.2
 
@@ -275,8 +275,8 @@ Simple shell 0.1 +
 
 - Handle command lines with arguments
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 3. Simple shell 0.3
 
@@ -304,8 +304,8 @@ drwx------ 3 root   root   4096 Dec  5 12:07 systemd-private-062a0eca7f2a4434973
 julien@ubuntu:~/shell$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 4. Simple shell 0.4
 
@@ -315,8 +315,8 @@ Simple shell 0.3 +
 - Usage: `exit`
 - You don’t have to handle any argument to the built-in `exit`
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 5. Simple shell 1.0
 
@@ -343,8 +343,8 @@ $ exit
 julien@ubuntu:~/shell$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 6. Simple shell 0.1.1
 
@@ -359,8 +359,8 @@ You don’t have to:
 
 - be able to move the cursor
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 7. Simple shell 0.2.1
 
@@ -368,8 +368,8 @@ Simple shell 0.2 +
 
 - You are not allowed to use `strtok`
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 8. Simple shell 0.4.1
 
@@ -386,8 +386,8 @@ julien@ubuntu:~/shell$ echo $?
 julien@ubuntu:~/shell$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 9. setenv, unsetenv
 
@@ -404,8 +404,8 @@ Implement the `setenv` and `unsetenv` builtin commands
     - Command syntax: `unsetenv VARIABLE`
     - Should print something on stderr on failure
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 10. cd
 
@@ -421,8 +421,8 @@ Implement the builtin command `cd`:
 
 `man chdir`, `man getcwd`
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 11. ;
 
@@ -448,8 +448,8 @@ backups  cache  crash  lib  local  lock  log  mail  metrics  opt  run  spool  tm
 alex@~$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 12. && and ||
 
@@ -492,8 +492,8 @@ backups  cache  crash  lib  local  lock  log  mail  metrics  opt  run  spool  tm
 alex@~$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 13. alias
 
@@ -505,8 +505,8 @@ Simple shell 1.0 +
     - `alias name [name2 ...]`: Prints the aliases `name`, `name2`, etc 1 per line, in the form `name='value'`
     - `alias name='value' [...]`: Defines an alias for each `name` whose `value` is given. If `name` is already an alias, replaces its value with `value`
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 14. Variables
 
@@ -530,8 +530,8 @@ $ exit
 julien@ubuntu:~/shell$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 15. Comments
 
@@ -547,8 +547,8 @@ $ exit
 julien@ubuntu:~/shell$
 ```
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
 
 ### 16. File as input
 
@@ -564,5 +564,5 @@ Well done on completing this project! Let the world hear about this milestone ac
 
 [Click here to tweet!]()
 
-Repo:
-GitHub repository: simple_shell
+**Repo:**
+- GitHub repository: `simple_shell`
